@@ -7,11 +7,11 @@ Send message the notification using WhatsApp providers inside the Nocobase plata
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*lQRMJvxzOGh711wDABKV-g.png)
 
-![](../plugin-whatsapp/docs/plugin_config.png)
+![](docs/plugin_config.png)
 
-![](../plugin-whatsapp/docs/messages.png)
+![](docs/messages.png)
 
-![](../plugin-whatsapp/docs/workflow.png)
+![](docs/workflow.png)
 
 ### Provider
 
