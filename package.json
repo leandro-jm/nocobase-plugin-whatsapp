@@ -1,0 +1,14 @@
+{
+  "name": "@leandrojm/plugin-whatsapp",
+  "version": "0.1.0",
+  "displayName": "WhatsApp",
+  "description": "Send message the notification using WhatsApp. Allow used with workflow or send other types messages using endpoint.",
+  "license": "AGPL-3.0",
+  "main": "dist/server/index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/test": "1.x"
+  }
+}

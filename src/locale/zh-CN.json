@@ -1,0 +1,8 @@
+{
+  "field_api_key_title": "API 密钥:",
+  "field_api_url_title": "API URL:",
+  "field_phone_from_title": "消息来源电话号码:",
+  "instruction_title": "说明:",
+  "instruction_description1": "以下设置来自 Meta 的消息提供商，必须填写正确的信息才能自动发送消息。更多详情，请访问：https://developers.facebook.com/docs/whatsapp/cloud-api",
+  "instruction_description2": "配置以下设置后，要发送消息，只需使用 /api/sendMessage:post 端点"
+}
