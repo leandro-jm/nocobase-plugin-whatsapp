@@ -47,7 +47,7 @@ Collections are essential because they define the structure of the data stored i
 
 ### Usage
 
-To use the plugin, you can download the package into the `XXX` folder and install it in your NocoBase instance by navigating to **Plugin > Add & Update > Upload**. Select the package and click **Submit**. After that, simply activate the plugin and configure it according to your chosen provider.
+To use the plugin, you can download the package into build folder and install it in your NocoBase instance by navigating to **Plugin > Add & Update > Upload**. Select the package and click **Submit**. After that, simply activate the plugin and configure it according to your chosen provider.
 
 ### TO-DO
 
