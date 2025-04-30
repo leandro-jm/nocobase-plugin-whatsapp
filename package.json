@@ -1,6 +1,6 @@
 {
   "name": "@leandrojm/plugin-whatsapp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "WhatsApp",
   "description": "Send message the notification using WhatsApp. Allow used with workflow or send other types messages using endpoint.",
   "license": "AGPL-3.0",
